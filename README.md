@@ -17,6 +17,7 @@
 
 <hr />
 ### My social media:
+
 [<img width="30" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 [<img width="30" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img width="30" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />][instagram]
