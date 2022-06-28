@@ -38,8 +38,7 @@
     <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></td>
     <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></td>
     <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png
-" /></td>
+    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></td>
     <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
 	<td style="width: 80px; text-align: center"><img width="30" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" /></td>
   </tr>
