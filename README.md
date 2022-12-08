@@ -33,31 +33,35 @@
 ### Languages and Tools:
 
 <table>
-  <tr>
-      <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center"><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
-	<td style="width: 80px; text-align: center"><img width="30" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" /></td>
-  </tr>
-  <tr>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center">★★★★✰</td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center">★★★★✰</td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center">★★✰✰✰</td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center">★✰✰✰✰</td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center">★✰✰✰✰</td>
-    <td style="border-right: 1px solid black; width: 80px; text-align: center">★★✰✰✰</td>
-    <td style="width: 80px; text-align: center">★★✰✰✰</td>
-  </tr>
+<tr>
+<th>Frontend:</th>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></td>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></td>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></td>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
+</tr>
+<tr>
+<th>Backend:</th>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></td>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></td>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></td>
+</tr>
+<tr>
+<th>Tools:</th>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
+<td><img width="50" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" /></td>
+</tr>
 </table>
 
 <hr />
 
 ### Learn in progress ...
-
-<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  + <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<table>
+<tr>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></td>
+<td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></td>
+</tr>
+</table>
 ##### Inspired on: https://github.com/aliyr/Nodejs-Developer-Roadmap
 
 [linkedin]: https://linkedin.com/in/karol-chrobok-79539010a/
