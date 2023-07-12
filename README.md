@@ -13,12 +13,10 @@
 
 ### 🔭 I'm currently working on
 - Refresh my personal page
-- [INVO ACADEMY](https://platform.invo.academy/portfolio/IsLjchODPwb5mO2fD4YGX0Hfs2r2) projects
 
 <hr />
 
 ### 🌱 I'm currently learning
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <hr />
