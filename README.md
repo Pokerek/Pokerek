@@ -12,13 +12,11 @@ Developer without barriers. Coding since 2014, professional since 2023
 
 <hr />
 
-### 🔭 I'm currently working on
-- Swap my page from React + Express into Next.js
-
-<hr />
-
-### 🌱 I'm currently learning
+### 🔭 Hobby projects and learn path
+#### Swap my page from React + Express into Next.js
+  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img width="24" src="./images/arrow.svg" />
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 <hr />
@@ -60,8 +58,8 @@ Developer without barriers. Coding since 2014, professional since 2023
 <hr />
 
 ### My social media:
-[<img width="40" src="https://github.com/Pokerek/Pokerek/blob/master/images/linkedin.svg" />][linkedin]
-[<img width="40" src="https://github.com/Pokerek/Pokerek/blob/master/images/instagram.svg" />][instagram]
+[<img width="40" src="./images/linkedin.svg" />][linkedin]
+[<img width="40" src="./images/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/karol-chrobok/
 [instagram]: https://www.instagram.com/chrobok.dev/
