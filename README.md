@@ -18,8 +18,8 @@ to Senior Developer** in a daily developer's journal.
 
 <hr />
 
-### 🔭 Currently building
-- **[chrobok-dev-website](https://github.com/Pokerek/chrobok-dev-website)** — my personal site & journal, built with Astro *(work in progress)*
+### 🌐 My site
+- **[chrobok.dev][webpage]** — my personal site & journal, built with Astro & Tailwind
 
 ### 💬 What I'm looking for
 A team where I can own real features in TypeScript / React / Next.js, with room to grow
