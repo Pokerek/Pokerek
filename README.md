@@ -22,8 +22,7 @@ to Senior Developer** in a daily developer's journal.
 - **[chrobok.dev][webpage]** — my personal site & journal, built with Astro & Tailwind
 
 ### 🔭 Currently building
-- My own AI-assisted dev flow — custom Claude Code skills & rules that structure my daily
-  work, career materials and decisions
+- Custom Claude Code skills & rules that structure my daily work
 
 ### 💬 What I'm looking for
 A team where I can own real features in TypeScript / React / Next.js, with room to grow
