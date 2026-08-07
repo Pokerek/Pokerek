@@ -25,9 +25,6 @@ to Senior Developer** in a daily developer's journal.
 - **Szlak Polski** — a curated guide to the best places to visit in Poland, with a
   GitHub-style star system. Astro + Supabase on Cloudflare Workers. **Work in progress**,
   heading for **szlakpolski.pl** *(repo private for now)*
-- My own **Claude Code skills & rules** — already running my daily work: custom skills
-  per repo, on top of [mattpocock/skills](https://github.com/mattpocock/skills), with the
-  rules kept in `CLAUDE.md` as the single source of truth
 
 ### 💬 What I'm looking for
 A team where I can own real features in TypeScript / React / Next.js, with room to grow
