@@ -1,34 +1,33 @@
 ### Hi, I'm Karol 👋
 
-#### Frontend Developer · React / Next.js / TypeScript
+#### Frontend Engineer → Fullstack · React / Next.js / TypeScript
 **I craft code with AI — simple, consistent, considered.**
 
 <hr />
 
-For ~3 years I've worked in a small frontend team on Rentola, a production rental
-marketplace running across ~60 language markets. I joined as a junior with no
-React/Next.js experience and grew into the owner of revenue-critical areas: the
-registration & subscription funnel, payments, A/B experimentation, i18n and SEO.
+### 🔭 Currently building
+- **Szlak Polski** — my own product: a curated guide to the best places to visit in Poland,
+  with a GitHub-style star system. Astro + React + TypeScript on the front, Supabase
+  (Postgres, auth) and Cloudflare Workers behind it. Run like a team project — tickets in
+  Linear, protected branches, a release flow — with a disciplined AI workflow:
+  idea → plan → code review → production. Heading for **szlakpolski.pl** *(repo private — it's a product)*
 
-I use AI every day as a tool, but I own the result — I don't generate code, I craft it.
+### 💼 Before that
+~3 years in a small frontend team on Rentola, a production rental marketplace across
+~60 language markets. I joined as a junior and grew into the owner of revenue-critical
+areas: the subscription funnel, payments, A/B experimentation, i18n and SEO.
 
-🎓 Beyond code: I've been teaching for a decade — maths and programming — which taught
-me to explain hard things simply and work with people. I document my path **from Zero
-to Senior Developer** in a daily developer's journal.
+AI is my everyday tool, but I own the result — I don't generate code, I craft it.
 
-<hr />
+🎓 Beyond code: a decade of teaching maths and programming taught me to explain hard
+things simply. I document my journey in a daily developer's journal.
 
 ### 🌐 My site
-- **[chrobok.dev][webpage]** — my personal site & journal, built with Astro & Tailwind
-
-### 🔭 Currently building
-- **Szlak Polski** — a curated guide to the best places to visit in Poland, with a
-  GitHub-style star system. Astro + Supabase on Cloudflare Workers. **Work in progress**,
-  heading for **szlakpolski.pl** *(repo private for now)*
+- **[chrobok.dev][webpage]** — my personal site, built with Astro & Tailwind
 
 ### 💬 What I'm looking for
-A team where I can own real features in TypeScript / React / Next.js, with room to grow
-toward fullstack. Remote. **Available ASAP.**
+TypeScript / React / Next.js work with real ownership and room to grow toward fullstack.
+Remote, B2B, anywhere in the world. **Available ASAP.**
 
 <hr />
 
@@ -46,6 +45,8 @@ toward fullstack. Remote. **Available ASAP.**
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Also comfortable with
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
