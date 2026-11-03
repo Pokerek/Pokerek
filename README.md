@@ -13,7 +13,7 @@
   idea → plan → code review → production. Heading for **szlakpolski.pl** *(repo private — it's a product)*
 
 ### 💼 Before that
-~3 years in a small frontend team on Rentola, a production rental marketplace across
+~3 years in a small frontend team on a production rental marketplace across
 ~60 language markets. I joined as a junior and grew into the owner of revenue-critical
 areas: the subscription funnel, payments, A/B experimentation, i18n and SEO.
 
